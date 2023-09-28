@@ -1,0 +1,22 @@
+#!/bin/sh
+# Account & partition (must have these)
+#SBATCH --account=cm30225
+#SBATCH --partition=teaching
+# Name of job (optional)
+#SBATCH --job-name=coresweep
+# one node
+#SBATCH --nodes=4
+#SBATCH --ntasks-per-node=44
+#SBATCH --output=OUTPUT_coresweep.txt
+# any normal shell stuff
+# mpicc -help
+# pwd
+# Run the program
+mpicc -g relax.c -o relax -Wall -Wconversion -Wextra
+
+#mpirun ./relax -precision 0.0001 -size 1000 >> coresweep.txt
+
+#mpirun -n 1 ./relax -precision 0.00001 -size 500 >> coresweep.txt
+
+
+mpirun -n 1 ./relax -precision 0.000001 -size 700 >> coresweep.txt

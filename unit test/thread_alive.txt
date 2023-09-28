@@ -1,0 +1,14 @@
+mpirun -n 8 ./relax -size 10 -display 1 -precision 0.01234 
+
+Arguments: size: 10, precision 0.012340, display level: 1
+The number of processes are: 8
+This is processor: : 7
+This is processor: : 1
+This is processor: : 3
+This is processor: : 5
+This is processor: : 2
+This is processor: : 4
+This is processor: : 6
+This is processor: : 0
+
+8, 0.012340, 10, 0.018398, 34,

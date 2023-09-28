@@ -1,0 +1,19 @@
+{
+  "folders": [
+	{
+		"name": "C Programming",
+		"path": "."
+	}
+],
+  "settings": {
+    "files.associations": {
+      "process.h": "c",
+      "mpi.h": "c",
+      "omp.h": "c",
+      "stdio.h": "c",
+      "main.C": "cpp",
+      "unistd.h": "c"
+    },
+    "editor.formatOnSave": true
+  }
+}

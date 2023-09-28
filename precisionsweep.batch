@@ -1,0 +1,46 @@
+#!/bin/sh
+# Account & partition (must have these)
+#SBATCH --account=cm30225
+#SBATCH --partition=teaching
+# Name of job (optional)
+#SBATCH --job-name=coresweep
+# one node
+#SBATCH --nodes=4
+#SBATCH --ntasks-per-node=44
+#SBATCH --output=OUTPUT_coresweep.txt
+# any normal shell stuff
+# mpicc -help
+# pwd
+# Run the program
+
+
+mpirun -n 44 ./relax -precision 0.001 -size 4000 >> worstspeedup.txt
+mpirun -n 88 ./relax -precision 0.001 -size 4000 >> worstspeedup.txt
+mpirun -n 132 ./relax -precision 0.001 -size 4000 >> worstspeedup.txt
+
+
+mpirun -n 1 ./relax -precision 0.005 -size 4000 >> worstspeedup.txt
+mpirun -n 44 ./relax -precision 0.005 -size 4000 >> worstspeedup.txt
+mpirun -n 88 ./relax -precision 0.005 -size 4000 >> worstspeedup.txt
+mpirun -n 132 ./relax -precision 0.005 -size 4000 >> worstspeedup.txt
+mpirun -n 176 ./relax -precision 0.005 -size 4000 >> worstspeedup.txt
+
+
+mpirun -n 1 ./relax -precision 0.01 -size 4000 >> worstspeedup.txt
+mpirun -n 44 ./relax -precision 0.01 -size 4000 >> worstspeedup.txt
+mpirun -n 88 ./relax -precision 0.01 -size 4000 >> worstspeedup.txt
+mpirun -n 132 ./relax -precision 0.01 -size 4000 >> worstspeedup.txt
+mpirun -n 176 ./relax -precision 0.01 -size 4000 >> worstspeedup.txt
+
+
+mpirun -n 1 ./relax -precision 0.05 -size 4000 >> worstspeedup.txt
+mpirun -n 44 ./relax -precision 0.05 -size 4000 >> worstspeedup.txt
+mpirun -n 88 ./relax -precision 0.05 -size 4000 >> worstspeedup.txt
+mpirun -n 132 ./relax -precision 0.05 -size 4000 >> worstspeedup.txt
+mpirun -n 176 ./relax -precision 0.05 -size 4000 >> worstspeedup.txt
+
+mpirun -n 1 ./relax -precision 0.1 -size 4000 >> worstspeedup.txt
+mpirun -n 44 ./relax -precision 0.1 -size 4000 >> worstspeedup.txt
+mpirun -n 88 ./relax -precision 0.1 -size 4000 >> worstspeedup.txt
+mpirun -n 132 ./relax -precision 0.1 -size 4000 >> worstspeedup.txt
+mpirun -n 176 ./relax -precision 0.1 -size 4000 >> worstspeedup.txt

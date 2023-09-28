@@ -1,0 +1,528 @@
+Processor 0 send starts at (x,y) (0,0) and ends at (x,y) (0,8), rows: 8 
+Processor 0 recv starts at (x,y) (0,1) and ends at (x,y) (0,7), rows: 6 
+
+Processor 1 send starts at (x,y) (0,6) and ends at (x,y) (0,14), rows: 8 
+Processor 1 recv starts at (x,y) (0,7) and ends at (x,y) (0,13), rows: 6 
+
+Processor 2 send starts at (x,y) (0,12) and ends at (x,y) (0,20), rows: 8 
+Processor 2 recv starts at (x,y) (0,13) and ends at (x,y) (0,19), rows: 6 
+
+Processor 3 send starts at (x,y) (0,18) and ends at (x,y) (0,26), rows: 8 
+Processor 3 recv starts at (x,y) (0,19) and ends at (x,y) (0,25), rows: 6 
+
+Processor 4 send starts at (x,y) (0,24) and ends at (x,y) (0,32), rows: 8 
+Processor 4 recv starts at (x,y) (0,25) and ends at (x,y) (0,31), rows: 6 
+
+Processor 5 send starts at (x,y) (0,30) and ends at (x,y) (0,38), rows: 8 
+Processor 5 recv starts at (x,y) (0,31) and ends at (x,y) (0,37), rows: 6 
+
+Processor 6 send starts at (x,y) (0,36) and ends at (x,y) (0,44), rows: 8 
+Processor 6 recv starts at (x,y) (0,37) and ends at (x,y) (0,43), rows: 6 
+
+Processor 7 send starts at (x,y) (0,42) and ends at (x,y) (0,50), rows: 8 
+Processor 7 recv starts at (x,y) (0,43) and ends at (x,y) (0,49), rows: 6 
+
+Processor 8 send starts at (x,y) (0,48) and ends at (x,y) (0,56), rows: 8 
+Processor 8 recv starts at (x,y) (0,49) and ends at (x,y) (0,55), rows: 6 
+
+Processor 9 send starts at (x,y) (0,54) and ends at (x,y) (0,62), rows: 8 
+Processor 9 recv starts at (x,y) (0,55) and ends at (x,y) (0,61), rows: 6 
+
+Processor 10 send starts at (x,y) (0,60) and ends at (x,y) (0,68), rows: 8 
+Processor 10 recv starts at (x,y) (0,61) and ends at (x,y) (0,67), rows: 6 
+
+Processor 11 send starts at (x,y) (0,66) and ends at (x,y) (0,74), rows: 8 
+Processor 11 recv starts at (x,y) (0,67) and ends at (x,y) (0,73), rows: 6 
+
+Processor 12 send starts at (x,y) (0,72) and ends at (x,y) (0,80), rows: 8 
+Processor 12 recv starts at (x,y) (0,73) and ends at (x,y) (0,79), rows: 6 
+
+Processor 13 send starts at (x,y) (0,78) and ends at (x,y) (0,86), rows: 8 
+Processor 13 recv starts at (x,y) (0,79) and ends at (x,y) (0,85), rows: 6 
+
+Processor 14 send starts at (x,y) (0,84) and ends at (x,y) (0,92), rows: 8 
+Processor 14 recv starts at (x,y) (0,85) and ends at (x,y) (0,91), rows: 6 
+
+Processor 15 send starts at (x,y) (0,90) and ends at (x,y) (0,98), rows: 8 
+Processor 15 recv starts at (x,y) (0,91) and ends at (x,y) (0,97), rows: 6 
+
+Processor 16 send starts at (x,y) (0,96) and ends at (x,y) (0,104), rows: 8 
+Processor 16 recv starts at (x,y) (0,97) and ends at (x,y) (0,103), rows: 6 
+
+Processor 17 send starts at (x,y) (0,102) and ends at (x,y) (0,110), rows: 8 
+Processor 17 recv starts at (x,y) (0,103) and ends at (x,y) (0,109), rows: 6 
+
+Processor 18 send starts at (x,y) (0,108) and ends at (x,y) (0,116), rows: 8 
+Processor 18 recv starts at (x,y) (0,109) and ends at (x,y) (0,115), rows: 6 
+
+Processor 19 send starts at (x,y) (0,114) and ends at (x,y) (0,122), rows: 8 
+Processor 19 recv starts at (x,y) (0,115) and ends at (x,y) (0,121), rows: 6 
+
+Processor 20 send starts at (x,y) (0,120) and ends at (x,y) (0,128), rows: 8 
+Processor 20 recv starts at (x,y) (0,121) and ends at (x,y) (0,127), rows: 6 
+
+Processor 21 send starts at (x,y) (0,126) and ends at (x,y) (0,134), rows: 8 
+Processor 21 recv starts at (x,y) (0,127) and ends at (x,y) (0,133), rows: 6 
+
+Processor 22 send starts at (x,y) (0,132) and ends at (x,y) (0,140), rows: 8 
+Processor 22 recv starts at (x,y) (0,133) and ends at (x,y) (0,139), rows: 6 
+
+Processor 23 send starts at (x,y) (0,138) and ends at (x,y) (0,146), rows: 8 
+Processor 23 recv starts at (x,y) (0,139) and ends at (x,y) (0,145), rows: 6 
+
+Processor 24 send starts at (x,y) (0,144) and ends at (x,y) (0,152), rows: 8 
+Processor 24 recv starts at (x,y) (0,145) and ends at (x,y) (0,151), rows: 6 
+
+Processor 25 send starts at (x,y) (0,150) and ends at (x,y) (0,158), rows: 8 
+Processor 25 recv starts at (x,y) (0,151) and ends at (x,y) (0,157), rows: 6 
+
+Processor 26 send starts at (x,y) (0,156) and ends at (x,y) (0,164), rows: 8 
+Processor 26 recv starts at (x,y) (0,157) and ends at (x,y) (0,163), rows: 6 
+
+Processor 27 send starts at (x,y) (0,162) and ends at (x,y) (0,170), rows: 8 
+Processor 27 recv starts at (x,y) (0,163) and ends at (x,y) (0,169), rows: 6 
+
+Processor 28 send starts at (x,y) (0,168) and ends at (x,y) (0,176), rows: 8 
+Processor 28 recv starts at (x,y) (0,169) and ends at (x,y) (0,175), rows: 6 
+
+Processor 29 send starts at (x,y) (0,174) and ends at (x,y) (0,182), rows: 8 
+Processor 29 recv starts at (x,y) (0,175) and ends at (x,y) (0,181), rows: 6 
+
+Processor 30 send starts at (x,y) (0,180) and ends at (x,y) (0,188), rows: 8 
+Processor 30 recv starts at (x,y) (0,181) and ends at (x,y) (0,187), rows: 6 
+
+Processor 31 send starts at (x,y) (0,186) and ends at (x,y) (0,194), rows: 8 
+Processor 31 recv starts at (x,y) (0,187) and ends at (x,y) (0,193), rows: 6 
+
+Processor 32 send starts at (x,y) (0,192) and ends at (x,y) (0,200), rows: 8 
+Processor 32 recv starts at (x,y) (0,193) and ends at (x,y) (0,199), rows: 6 
+
+Processor 33 send starts at (x,y) (0,198) and ends at (x,y) (0,206), rows: 8 
+Processor 33 recv starts at (x,y) (0,199) and ends at (x,y) (0,205), rows: 6 
+
+Processor 34 send starts at (x,y) (0,204) and ends at (x,y) (0,212), rows: 8 
+Processor 34 recv starts at (x,y) (0,205) and ends at (x,y) (0,211), rows: 6 
+
+Processor 35 send starts at (x,y) (0,210) and ends at (x,y) (0,218), rows: 8 
+Processor 35 recv starts at (x,y) (0,211) and ends at (x,y) (0,217), rows: 6 
+
+Processor 36 send starts at (x,y) (0,216) and ends at (x,y) (0,224), rows: 8 
+Processor 36 recv starts at (x,y) (0,217) and ends at (x,y) (0,223), rows: 6 
+
+Processor 37 send starts at (x,y) (0,222) and ends at (x,y) (0,230), rows: 8 
+Processor 37 recv starts at (x,y) (0,223) and ends at (x,y) (0,229), rows: 6 
+
+Processor 38 send starts at (x,y) (0,228) and ends at (x,y) (0,236), rows: 8 
+Processor 38 recv starts at (x,y) (0,229) and ends at (x,y) (0,235), rows: 6 
+
+Processor 39 send starts at (x,y) (0,234) and ends at (x,y) (0,242), rows: 8 
+Processor 39 recv starts at (x,y) (0,235) and ends at (x,y) (0,241), rows: 6 
+
+Processor 40 send starts at (x,y) (0,240) and ends at (x,y) (0,248), rows: 8 
+Processor 40 recv starts at (x,y) (0,241) and ends at (x,y) (0,247), rows: 6 
+
+Processor 41 send starts at (x,y) (0,246) and ends at (x,y) (0,254), rows: 8 
+Processor 41 recv starts at (x,y) (0,247) and ends at (x,y) (0,253), rows: 6 
+
+Processor 42 send starts at (x,y) (0,252) and ends at (x,y) (0,260), rows: 8 
+Processor 42 recv starts at (x,y) (0,253) and ends at (x,y) (0,259), rows: 6 
+
+Processor 43 send starts at (x,y) (0,258) and ends at (x,y) (0,266), rows: 8 
+Processor 43 recv starts at (x,y) (0,259) and ends at (x,y) (0,265), rows: 6 
+
+Processor 44 send starts at (x,y) (0,264) and ends at (x,y) (0,272), rows: 8 
+Processor 44 recv starts at (x,y) (0,265) and ends at (x,y) (0,271), rows: 6 
+
+Processor 45 send starts at (x,y) (0,270) and ends at (x,y) (0,278), rows: 8 
+Processor 45 recv starts at (x,y) (0,271) and ends at (x,y) (0,277), rows: 6 
+
+Processor 46 send starts at (x,y) (0,276) and ends at (x,y) (0,284), rows: 8 
+Processor 46 recv starts at (x,y) (0,277) and ends at (x,y) (0,283), rows: 6 
+
+Processor 47 send starts at (x,y) (0,282) and ends at (x,y) (0,290), rows: 8 
+Processor 47 recv starts at (x,y) (0,283) and ends at (x,y) (0,289), rows: 6 
+
+Processor 48 send starts at (x,y) (0,288) and ends at (x,y) (0,296), rows: 8 
+Processor 48 recv starts at (x,y) (0,289) and ends at (x,y) (0,295), rows: 6 
+
+Processor 49 send starts at (x,y) (0,294) and ends at (x,y) (0,302), rows: 8 
+Processor 49 recv starts at (x,y) (0,295) and ends at (x,y) (0,301), rows: 6 
+
+Processor 50 send starts at (x,y) (0,300) and ends at (x,y) (0,308), rows: 8 
+Processor 50 recv starts at (x,y) (0,301) and ends at (x,y) (0,307), rows: 6 
+
+Processor 51 send starts at (x,y) (0,306) and ends at (x,y) (0,314), rows: 8 
+Processor 51 recv starts at (x,y) (0,307) and ends at (x,y) (0,313), rows: 6 
+
+Processor 52 send starts at (x,y) (0,312) and ends at (x,y) (0,320), rows: 8 
+Processor 52 recv starts at (x,y) (0,313) and ends at (x,y) (0,319), rows: 6 
+
+Processor 53 send starts at (x,y) (0,318) and ends at (x,y) (0,326), rows: 8 
+Processor 53 recv starts at (x,y) (0,319) and ends at (x,y) (0,325), rows: 6 
+
+Processor 54 send starts at (x,y) (0,324) and ends at (x,y) (0,332), rows: 8 
+Processor 54 recv starts at (x,y) (0,325) and ends at (x,y) (0,331), rows: 6 
+
+Processor 55 send starts at (x,y) (0,330) and ends at (x,y) (0,338), rows: 8 
+Processor 55 recv starts at (x,y) (0,331) and ends at (x,y) (0,337), rows: 6 
+
+Processor 56 send starts at (x,y) (0,336) and ends at (x,y) (0,344), rows: 8 
+Processor 56 recv starts at (x,y) (0,337) and ends at (x,y) (0,343), rows: 6 
+
+Processor 57 send starts at (x,y) (0,342) and ends at (x,y) (0,350), rows: 8 
+Processor 57 recv starts at (x,y) (0,343) and ends at (x,y) (0,349), rows: 6 
+
+Processor 58 send starts at (x,y) (0,348) and ends at (x,y) (0,356), rows: 8 
+Processor 58 recv starts at (x,y) (0,349) and ends at (x,y) (0,355), rows: 6 
+
+Processor 59 send starts at (x,y) (0,354) and ends at (x,y) (0,362), rows: 8 
+Processor 59 recv starts at (x,y) (0,355) and ends at (x,y) (0,361), rows: 6 
+
+Processor 60 send starts at (x,y) (0,360) and ends at (x,y) (0,368), rows: 8 
+Processor 60 recv starts at (x,y) (0,361) and ends at (x,y) (0,367), rows: 6 
+
+Processor 61 send starts at (x,y) (0,366) and ends at (x,y) (0,374), rows: 8 
+Processor 61 recv starts at (x,y) (0,367) and ends at (x,y) (0,373), rows: 6 
+
+Processor 62 send starts at (x,y) (0,372) and ends at (x,y) (0,380), rows: 8 
+Processor 62 recv starts at (x,y) (0,373) and ends at (x,y) (0,379), rows: 6 
+
+Processor 63 send starts at (x,y) (0,378) and ends at (x,y) (0,386), rows: 8 
+Processor 63 recv starts at (x,y) (0,379) and ends at (x,y) (0,385), rows: 6 
+
+Processor 64 send starts at (x,y) (0,384) and ends at (x,y) (0,392), rows: 8 
+Processor 64 recv starts at (x,y) (0,385) and ends at (x,y) (0,391), rows: 6 
+
+Processor 65 send starts at (x,y) (0,390) and ends at (x,y) (0,398), rows: 8 
+Processor 65 recv starts at (x,y) (0,391) and ends at (x,y) (0,397), rows: 6 
+
+Processor 66 send starts at (x,y) (0,396) and ends at (x,y) (0,404), rows: 8 
+Processor 66 recv starts at (x,y) (0,397) and ends at (x,y) (0,403), rows: 6 
+
+Processor 67 send starts at (x,y) (0,402) and ends at (x,y) (0,410), rows: 8 
+Processor 67 recv starts at (x,y) (0,403) and ends at (x,y) (0,409), rows: 6 
+
+Processor 68 send starts at (x,y) (0,408) and ends at (x,y) (0,416), rows: 8 
+Processor 68 recv starts at (x,y) (0,409) and ends at (x,y) (0,415), rows: 6 
+
+Processor 69 send starts at (x,y) (0,414) and ends at (x,y) (0,422), rows: 8 
+Processor 69 recv starts at (x,y) (0,415) and ends at (x,y) (0,421), rows: 6 
+
+Processor 70 send starts at (x,y) (0,420) and ends at (x,y) (0,428), rows: 8 
+Processor 70 recv starts at (x,y) (0,421) and ends at (x,y) (0,427), rows: 6 
+
+Processor 71 send starts at (x,y) (0,426) and ends at (x,y) (0,434), rows: 8 
+Processor 71 recv starts at (x,y) (0,427) and ends at (x,y) (0,433), rows: 6 
+
+Processor 72 send starts at (x,y) (0,432) and ends at (x,y) (0,440), rows: 8 
+Processor 72 recv starts at (x,y) (0,433) and ends at (x,y) (0,439), rows: 6 
+
+Processor 73 send starts at (x,y) (0,438) and ends at (x,y) (0,446), rows: 8 
+Processor 73 recv starts at (x,y) (0,439) and ends at (x,y) (0,445), rows: 6 
+
+Processor 74 send starts at (x,y) (0,444) and ends at (x,y) (0,452), rows: 8 
+Processor 74 recv starts at (x,y) (0,445) and ends at (x,y) (0,451), rows: 6 
+
+Processor 75 send starts at (x,y) (0,450) and ends at (x,y) (0,458), rows: 8 
+Processor 75 recv starts at (x,y) (0,451) and ends at (x,y) (0,457), rows: 6 
+
+Processor 76 send starts at (x,y) (0,456) and ends at (x,y) (0,464), rows: 8 
+Processor 76 recv starts at (x,y) (0,457) and ends at (x,y) (0,463), rows: 6 
+
+Processor 77 send starts at (x,y) (0,462) and ends at (x,y) (0,470), rows: 8 
+Processor 77 recv starts at (x,y) (0,463) and ends at (x,y) (0,469), rows: 6 
+
+Processor 78 send starts at (x,y) (0,468) and ends at (x,y) (0,476), rows: 8 
+Processor 78 recv starts at (x,y) (0,469) and ends at (x,y) (0,475), rows: 6 
+
+Processor 79 send starts at (x,y) (0,474) and ends at (x,y) (0,482), rows: 8 
+Processor 79 recv starts at (x,y) (0,475) and ends at (x,y) (0,481), rows: 6 
+
+Processor 80 send starts at (x,y) (0,480) and ends at (x,y) (0,488), rows: 8 
+Processor 80 recv starts at (x,y) (0,481) and ends at (x,y) (0,487), rows: 6 
+
+Processor 81 send starts at (x,y) (0,486) and ends at (x,y) (0,494), rows: 8 
+Processor 81 recv starts at (x,y) (0,487) and ends at (x,y) (0,493), rows: 6 
+
+Processor 82 send starts at (x,y) (0,492) and ends at (x,y) (0,500), rows: 8 
+Processor 82 recv starts at (x,y) (0,493) and ends at (x,y) (0,499), rows: 6 
+
+Processor 83 send starts at (x,y) (0,498) and ends at (x,y) (0,506), rows: 8 
+Processor 83 recv starts at (x,y) (0,499) and ends at (x,y) (0,505), rows: 6 
+
+Processor 84 send starts at (x,y) (0,504) and ends at (x,y) (0,512), rows: 8 
+Processor 84 recv starts at (x,y) (0,505) and ends at (x,y) (0,511), rows: 6 
+
+Processor 85 send starts at (x,y) (0,510) and ends at (x,y) (0,518), rows: 8 
+Processor 85 recv starts at (x,y) (0,511) and ends at (x,y) (0,517), rows: 6 
+
+Processor 86 send starts at (x,y) (0,516) and ends at (x,y) (0,524), rows: 8 
+Processor 86 recv starts at (x,y) (0,517) and ends at (x,y) (0,523), rows: 6 
+
+Processor 87 send starts at (x,y) (0,522) and ends at (x,y) (0,530), rows: 8 
+Processor 87 recv starts at (x,y) (0,523) and ends at (x,y) (0,529), rows: 6 
+
+Processor 88 send starts at (x,y) (0,528) and ends at (x,y) (0,536), rows: 8 
+Processor 88 recv starts at (x,y) (0,529) and ends at (x,y) (0,535), rows: 6 
+
+Processor 89 send starts at (x,y) (0,534) and ends at (x,y) (0,542), rows: 8 
+Processor 89 recv starts at (x,y) (0,535) and ends at (x,y) (0,541), rows: 6 
+
+Processor 90 send starts at (x,y) (0,540) and ends at (x,y) (0,548), rows: 8 
+Processor 90 recv starts at (x,y) (0,541) and ends at (x,y) (0,547), rows: 6 
+
+Processor 91 send starts at (x,y) (0,546) and ends at (x,y) (0,554), rows: 8 
+Processor 91 recv starts at (x,y) (0,547) and ends at (x,y) (0,553), rows: 6 
+
+Processor 92 send starts at (x,y) (0,552) and ends at (x,y) (0,560), rows: 8 
+Processor 92 recv starts at (x,y) (0,553) and ends at (x,y) (0,559), rows: 6 
+
+Processor 93 send starts at (x,y) (0,558) and ends at (x,y) (0,566), rows: 8 
+Processor 93 recv starts at (x,y) (0,559) and ends at (x,y) (0,565), rows: 6 
+
+Processor 94 send starts at (x,y) (0,564) and ends at (x,y) (0,572), rows: 8 
+Processor 94 recv starts at (x,y) (0,565) and ends at (x,y) (0,571), rows: 6 
+
+Processor 95 send starts at (x,y) (0,570) and ends at (x,y) (0,578), rows: 8 
+Processor 95 recv starts at (x,y) (0,571) and ends at (x,y) (0,577), rows: 6 
+
+Processor 96 send starts at (x,y) (0,576) and ends at (x,y) (0,584), rows: 8 
+Processor 96 recv starts at (x,y) (0,577) and ends at (x,y) (0,583), rows: 6 
+
+Processor 97 send starts at (x,y) (0,582) and ends at (x,y) (0,590), rows: 8 
+Processor 97 recv starts at (x,y) (0,583) and ends at (x,y) (0,589), rows: 6 
+
+Processor 98 send starts at (x,y) (0,588) and ends at (x,y) (0,596), rows: 8 
+Processor 98 recv starts at (x,y) (0,589) and ends at (x,y) (0,595), rows: 6 
+
+Processor 99 send starts at (x,y) (0,594) and ends at (x,y) (0,602), rows: 8 
+Processor 99 recv starts at (x,y) (0,595) and ends at (x,y) (0,601), rows: 6 
+
+Processor 100 send starts at (x,y) (0,600) and ends at (x,y) (0,608), rows: 8 
+Processor 100 recv starts at (x,y) (0,601) and ends at (x,y) (0,607), rows: 6 
+
+Processor 101 send starts at (x,y) (0,606) and ends at (x,y) (0,614), rows: 8 
+Processor 101 recv starts at (x,y) (0,607) and ends at (x,y) (0,613), rows: 6 
+
+Processor 102 send starts at (x,y) (0,612) and ends at (x,y) (0,620), rows: 8 
+Processor 102 recv starts at (x,y) (0,613) and ends at (x,y) (0,619), rows: 6 
+
+Processor 103 send starts at (x,y) (0,618) and ends at (x,y) (0,626), rows: 8 
+Processor 103 recv starts at (x,y) (0,619) and ends at (x,y) (0,625), rows: 6 
+
+Processor 104 send starts at (x,y) (0,624) and ends at (x,y) (0,632), rows: 8 
+Processor 104 recv starts at (x,y) (0,625) and ends at (x,y) (0,631), rows: 6 
+
+Processor 105 send starts at (x,y) (0,630) and ends at (x,y) (0,638), rows: 8 
+Processor 105 recv starts at (x,y) (0,631) and ends at (x,y) (0,637), rows: 6 
+
+Processor 106 send starts at (x,y) (0,636) and ends at (x,y) (0,644), rows: 8 
+Processor 106 recv starts at (x,y) (0,637) and ends at (x,y) (0,643), rows: 6 
+
+Processor 107 send starts at (x,y) (0,642) and ends at (x,y) (0,650), rows: 8 
+Processor 107 recv starts at (x,y) (0,643) and ends at (x,y) (0,649), rows: 6 
+
+Processor 108 send starts at (x,y) (0,648) and ends at (x,y) (0,656), rows: 8 
+Processor 108 recv starts at (x,y) (0,649) and ends at (x,y) (0,655), rows: 6 
+
+Processor 109 send starts at (x,y) (0,654) and ends at (x,y) (0,662), rows: 8 
+Processor 109 recv starts at (x,y) (0,655) and ends at (x,y) (0,661), rows: 6 
+
+Processor 110 send starts at (x,y) (0,660) and ends at (x,y) (0,668), rows: 8 
+Processor 110 recv starts at (x,y) (0,661) and ends at (x,y) (0,667), rows: 6 
+
+Processor 111 send starts at (x,y) (0,666) and ends at (x,y) (0,674), rows: 8 
+Processor 111 recv starts at (x,y) (0,667) and ends at (x,y) (0,673), rows: 6 
+
+Processor 112 send starts at (x,y) (0,672) and ends at (x,y) (0,680), rows: 8 
+Processor 112 recv starts at (x,y) (0,673) and ends at (x,y) (0,679), rows: 6 
+
+Processor 113 send starts at (x,y) (0,678) and ends at (x,y) (0,686), rows: 8 
+Processor 113 recv starts at (x,y) (0,679) and ends at (x,y) (0,685), rows: 6 
+
+Processor 114 send starts at (x,y) (0,684) and ends at (x,y) (0,692), rows: 8 
+Processor 114 recv starts at (x,y) (0,685) and ends at (x,y) (0,691), rows: 6 
+
+Processor 115 send starts at (x,y) (0,690) and ends at (x,y) (0,698), rows: 8 
+Processor 115 recv starts at (x,y) (0,691) and ends at (x,y) (0,697), rows: 6 
+
+Processor 116 send starts at (x,y) (0,696) and ends at (x,y) (0,704), rows: 8 
+Processor 116 recv starts at (x,y) (0,697) and ends at (x,y) (0,703), rows: 6 
+
+Processor 117 send starts at (x,y) (0,702) and ends at (x,y) (0,710), rows: 8 
+Processor 117 recv starts at (x,y) (0,703) and ends at (x,y) (0,709), rows: 6 
+
+Processor 118 send starts at (x,y) (0,708) and ends at (x,y) (0,715), rows: 7 
+Processor 118 recv starts at (x,y) (0,709) and ends at (x,y) (0,714), rows: 5 
+
+Processor 119 send starts at (x,y) (0,713) and ends at (x,y) (0,720), rows: 7 
+Processor 119 recv starts at (x,y) (0,714) and ends at (x,y) (0,719), rows: 5 
+
+Processor 120 send starts at (x,y) (0,718) and ends at (x,y) (0,725), rows: 7 
+Processor 120 recv starts at (x,y) (0,719) and ends at (x,y) (0,724), rows: 5 
+
+Processor 121 send starts at (x,y) (0,723) and ends at (x,y) (0,730), rows: 7 
+Processor 121 recv starts at (x,y) (0,724) and ends at (x,y) (0,729), rows: 5 
+
+Processor 122 send starts at (x,y) (0,728) and ends at (x,y) (0,735), rows: 7 
+Processor 122 recv starts at (x,y) (0,729) and ends at (x,y) (0,734), rows: 5 
+
+Processor 123 send starts at (x,y) (0,733) and ends at (x,y) (0,740), rows: 7 
+Processor 123 recv starts at (x,y) (0,734) and ends at (x,y) (0,739), rows: 5 
+
+Processor 124 send starts at (x,y) (0,738) and ends at (x,y) (0,745), rows: 7 
+Processor 124 recv starts at (x,y) (0,739) and ends at (x,y) (0,744), rows: 5 
+
+Processor 125 send starts at (x,y) (0,743) and ends at (x,y) (0,750), rows: 7 
+Processor 125 recv starts at (x,y) (0,744) and ends at (x,y) (0,749), rows: 5 
+
+Processor 126 send starts at (x,y) (0,748) and ends at (x,y) (0,755), rows: 7 
+Processor 126 recv starts at (x,y) (0,749) and ends at (x,y) (0,754), rows: 5 
+
+Processor 127 send starts at (x,y) (0,753) and ends at (x,y) (0,760), rows: 7 
+Processor 127 recv starts at (x,y) (0,754) and ends at (x,y) (0,759), rows: 5 
+
+Processor 128 send starts at (x,y) (0,758) and ends at (x,y) (0,765), rows: 7 
+Processor 128 recv starts at (x,y) (0,759) and ends at (x,y) (0,764), rows: 5 
+
+Processor 129 send starts at (x,y) (0,763) and ends at (x,y) (0,770), rows: 7 
+Processor 129 recv starts at (x,y) (0,764) and ends at (x,y) (0,769), rows: 5 
+
+Processor 130 send starts at (x,y) (0,768) and ends at (x,y) (0,775), rows: 7 
+Processor 130 recv starts at (x,y) (0,769) and ends at (x,y) (0,774), rows: 5 
+
+Processor 131 send starts at (x,y) (0,773) and ends at (x,y) (0,780), rows: 7 
+Processor 131 recv starts at (x,y) (0,774) and ends at (x,y) (0,779), rows: 5 
+
+Processor 132 send starts at (x,y) (0,778) and ends at (x,y) (0,785), rows: 7 
+Processor 132 recv starts at (x,y) (0,779) and ends at (x,y) (0,784), rows: 5 
+
+Processor 133 send starts at (x,y) (0,783) and ends at (x,y) (0,790), rows: 7 
+Processor 133 recv starts at (x,y) (0,784) and ends at (x,y) (0,789), rows: 5 
+
+Processor 134 send starts at (x,y) (0,788) and ends at (x,y) (0,795), rows: 7 
+Processor 134 recv starts at (x,y) (0,789) and ends at (x,y) (0,794), rows: 5 
+
+Processor 135 send starts at (x,y) (0,793) and ends at (x,y) (0,800), rows: 7 
+Processor 135 recv starts at (x,y) (0,794) and ends at (x,y) (0,799), rows: 5 
+
+Processor 136 send starts at (x,y) (0,798) and ends at (x,y) (0,805), rows: 7 
+Processor 136 recv starts at (x,y) (0,799) and ends at (x,y) (0,804), rows: 5 
+
+Processor 137 send starts at (x,y) (0,803) and ends at (x,y) (0,810), rows: 7 
+Processor 137 recv starts at (x,y) (0,804) and ends at (x,y) (0,809), rows: 5 
+
+Processor 138 send starts at (x,y) (0,808) and ends at (x,y) (0,815), rows: 7 
+Processor 138 recv starts at (x,y) (0,809) and ends at (x,y) (0,814), rows: 5 
+
+Processor 139 send starts at (x,y) (0,813) and ends at (x,y) (0,820), rows: 7 
+Processor 139 recv starts at (x,y) (0,814) and ends at (x,y) (0,819), rows: 5 
+
+Processor 140 send starts at (x,y) (0,818) and ends at (x,y) (0,825), rows: 7 
+Processor 140 recv starts at (x,y) (0,819) and ends at (x,y) (0,824), rows: 5 
+
+Processor 141 send starts at (x,y) (0,823) and ends at (x,y) (0,830), rows: 7 
+Processor 141 recv starts at (x,y) (0,824) and ends at (x,y) (0,829), rows: 5 
+
+Processor 142 send starts at (x,y) (0,828) and ends at (x,y) (0,835), rows: 7 
+Processor 142 recv starts at (x,y) (0,829) and ends at (x,y) (0,834), rows: 5 
+
+Processor 143 send starts at (x,y) (0,833) and ends at (x,y) (0,840), rows: 7 
+Processor 143 recv starts at (x,y) (0,834) and ends at (x,y) (0,839), rows: 5 
+
+Processor 144 send starts at (x,y) (0,838) and ends at (x,y) (0,845), rows: 7 
+Processor 144 recv starts at (x,y) (0,839) and ends at (x,y) (0,844), rows: 5 
+
+Processor 145 send starts at (x,y) (0,843) and ends at (x,y) (0,850), rows: 7 
+Processor 145 recv starts at (x,y) (0,844) and ends at (x,y) (0,849), rows: 5 
+
+Processor 146 send starts at (x,y) (0,848) and ends at (x,y) (0,855), rows: 7 
+Processor 146 recv starts at (x,y) (0,849) and ends at (x,y) (0,854), rows: 5 
+
+Processor 147 send starts at (x,y) (0,853) and ends at (x,y) (0,860), rows: 7 
+Processor 147 recv starts at (x,y) (0,854) and ends at (x,y) (0,859), rows: 5 
+
+Processor 148 send starts at (x,y) (0,858) and ends at (x,y) (0,865), rows: 7 
+Processor 148 recv starts at (x,y) (0,859) and ends at (x,y) (0,864), rows: 5 
+
+Processor 149 send starts at (x,y) (0,863) and ends at (x,y) (0,870), rows: 7 
+Processor 149 recv starts at (x,y) (0,864) and ends at (x,y) (0,869), rows: 5 
+
+Processor 150 send starts at (x,y) (0,868) and ends at (x,y) (0,875), rows: 7 
+Processor 150 recv starts at (x,y) (0,869) and ends at (x,y) (0,874), rows: 5 
+
+Processor 151 send starts at (x,y) (0,873) and ends at (x,y) (0,880), rows: 7 
+Processor 151 recv starts at (x,y) (0,874) and ends at (x,y) (0,879), rows: 5 
+
+Processor 152 send starts at (x,y) (0,878) and ends at (x,y) (0,885), rows: 7 
+Processor 152 recv starts at (x,y) (0,879) and ends at (x,y) (0,884), rows: 5 
+
+Processor 153 send starts at (x,y) (0,883) and ends at (x,y) (0,890), rows: 7 
+Processor 153 recv starts at (x,y) (0,884) and ends at (x,y) (0,889), rows: 5 
+
+Processor 154 send starts at (x,y) (0,888) and ends at (x,y) (0,895), rows: 7 
+Processor 154 recv starts at (x,y) (0,889) and ends at (x,y) (0,894), rows: 5 
+
+Processor 155 send starts at (x,y) (0,893) and ends at (x,y) (0,900), rows: 7 
+Processor 155 recv starts at (x,y) (0,894) and ends at (x,y) (0,899), rows: 5 
+
+Processor 156 send starts at (x,y) (0,898) and ends at (x,y) (0,905), rows: 7 
+Processor 156 recv starts at (x,y) (0,899) and ends at (x,y) (0,904), rows: 5 
+
+Processor 157 send starts at (x,y) (0,903) and ends at (x,y) (0,910), rows: 7 
+Processor 157 recv starts at (x,y) (0,904) and ends at (x,y) (0,909), rows: 5 
+
+Processor 158 send starts at (x,y) (0,908) and ends at (x,y) (0,915), rows: 7 
+Processor 158 recv starts at (x,y) (0,909) and ends at (x,y) (0,914), rows: 5 
+
+Processor 159 send starts at (x,y) (0,913) and ends at (x,y) (0,920), rows: 7 
+Processor 159 recv starts at (x,y) (0,914) and ends at (x,y) (0,919), rows: 5 
+
+Processor 160 send starts at (x,y) (0,918) and ends at (x,y) (0,925), rows: 7 
+Processor 160 recv starts at (x,y) (0,919) and ends at (x,y) (0,924), rows: 5 
+
+Processor 161 send starts at (x,y) (0,923) and ends at (x,y) (0,930), rows: 7 
+Processor 161 recv starts at (x,y) (0,924) and ends at (x,y) (0,929), rows: 5 
+
+Processor 162 send starts at (x,y) (0,928) and ends at (x,y) (0,935), rows: 7 
+Processor 162 recv starts at (x,y) (0,929) and ends at (x,y) (0,934), rows: 5 
+
+Processor 163 send starts at (x,y) (0,933) and ends at (x,y) (0,940), rows: 7 
+Processor 163 recv starts at (x,y) (0,934) and ends at (x,y) (0,939), rows: 5 
+
+Processor 164 send starts at (x,y) (0,938) and ends at (x,y) (0,945), rows: 7 
+Processor 164 recv starts at (x,y) (0,939) and ends at (x,y) (0,944), rows: 5 
+
+Processor 165 send starts at (x,y) (0,943) and ends at (x,y) (0,950), rows: 7 
+Processor 165 recv starts at (x,y) (0,944) and ends at (x,y) (0,949), rows: 5 
+
+Processor 166 send starts at (x,y) (0,948) and ends at (x,y) (0,955), rows: 7 
+Processor 166 recv starts at (x,y) (0,949) and ends at (x,y) (0,954), rows: 5 
+
+Processor 167 send starts at (x,y) (0,953) and ends at (x,y) (0,960), rows: 7 
+Processor 167 recv starts at (x,y) (0,954) and ends at (x,y) (0,959), rows: 5 
+
+Processor 168 send starts at (x,y) (0,958) and ends at (x,y) (0,965), rows: 7 
+Processor 168 recv starts at (x,y) (0,959) and ends at (x,y) (0,964), rows: 5 
+
+Processor 169 send starts at (x,y) (0,963) and ends at (x,y) (0,970), rows: 7 
+Processor 169 recv starts at (x,y) (0,964) and ends at (x,y) (0,969), rows: 5 
+
+Processor 170 send starts at (x,y) (0,968) and ends at (x,y) (0,975), rows: 7 
+Processor 170 recv starts at (x,y) (0,969) and ends at (x,y) (0,974), rows: 5 
+
+Processor 171 send starts at (x,y) (0,973) and ends at (x,y) (0,980), rows: 7 
+Processor 171 recv starts at (x,y) (0,974) and ends at (x,y) (0,979), rows: 5 
+
+Processor 172 send starts at (x,y) (0,978) and ends at (x,y) (0,985), rows: 7 
+Processor 172 recv starts at (x,y) (0,979) and ends at (x,y) (0,984), rows: 5 
+
+Processor 173 send starts at (x,y) (0,983) and ends at (x,y) (0,990), rows: 7 
+Processor 173 recv starts at (x,y) (0,984) and ends at (x,y) (0,989), rows: 5 
+
+Processor 174 send starts at (x,y) (0,988) and ends at (x,y) (0,995), rows: 7 
+Processor 174 recv starts at (x,y) (0,989) and ends at (x,y) (0,994), rows: 5 
+
+Processor 175 send starts at (x,y) (0,993) and ends at (x,y) (0,1000), rows: 7 
+Processor 175 recv starts at (x,y) (0,994) and ends at (x,y) (0,999), rows: 5 
+

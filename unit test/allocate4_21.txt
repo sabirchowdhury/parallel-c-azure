@@ -1,0 +1,12 @@
+Processor 0 send starts at (x,y) (0,0) and ends at (x,y) (0,7), rows: 7 
+Processor 0 recv starts at (x,y) (0,1) and ends at (x,y) (0,6), rows: 5 
+
+Processor 1 send starts at (x,y) (0,5) and ends at (x,y) (0,12), rows: 7 
+Processor 1 recv starts at (x,y) (0,6) and ends at (x,y) (0,11), rows: 5 
+
+Processor 2 send starts at (x,y) (0,10) and ends at (x,y) (0,17), rows: 7 
+Processor 2 recv starts at (x,y) (0,11) and ends at (x,y) (0,16), rows: 5 
+
+Processor 3 send starts at (x,y) (0,15) and ends at (x,y) (0,21), rows: 6 
+Processor 3 recv starts at (x,y) (0,16) and ends at (x,y) (0,20), rows: 4 
+

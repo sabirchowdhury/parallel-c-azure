@@ -1,0 +1,56 @@
+Arguments: size: 3, precision 0.010000, display level: 2
+The number of processes are: 1
+This is processor: : 0
+
+Starting Matrix:
+16.000000, 58.000000, 72.000000, 
+61.000000, 0.000000, 82.000000, 
+50.000000, 61.000000, 62.000000, 
+
+---------------------------------------------
+
+Processor 0 send starts at (x,y) (0,0) and ends at (x,y) (0,3), rows: 3 
+Processor 0 recv starts at (x,y) (0,1) and ends at (x,y) (0,2), rows: 1 
+
+Proc 0: Elements in proc: 9
+
+1, 0.010000, 3, 0.000194, 2,Iterations: 2
+Time taken: 0.000194 seconds
+
+---------------------------------------------
+
+
+Final Matrix:
+16.000000, 58.000000, 72.000000, 
+61.000000, 65.500000, 82.000000, 
+50.000000, 61.000000, 62.000000, 
+
+
+Arguments: size: 3, precision 0.010000, display level: 2
+The number of processes are: 1
+This is processor: : 0
+
+Starting Matrix:
+54.000000, 54.000000, 4.000000, 
+5.000000, 0.000000, 36.000000, 
+19.000000, 34.000000, 59.000000, 
+
+---------------------------------------------
+
+Processor 0 send starts at (x,y) (0,0) and ends at (x,y) (0,3), rows: 3 
+Processor 0 recv starts at (x,y) (0,1) and ends at (x,y) (0,2), rows: 1 
+
+Proc 0: Elements in proc: 9
+
+1, 0.010000, 3, 0.000225, 2,Iterations: 2
+Time taken: 0.000225 seconds
+
+---------------------------------------------
+
+
+Final Matrix:
+54.000000, 54.000000, 4.000000, 
+5.000000, 32.250000, 36.000000, 
+19.000000, 34.000000, 59.000000, 
+
+
